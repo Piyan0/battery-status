@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app{
+  font-family: 'Poppins';
+}
+.d{
+  border: 2px solid blue;
+}
+.dd{
+  border: 2px solid red;
+}
