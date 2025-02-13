@@ -1,3 +1,8 @@
+## Preview
+
+### Github Page
+>> [https://piyan0.github.io/battery-status/](https://piyan0.github.io/battery-status/)
+
 ## Project Setup
 
 ```sh
